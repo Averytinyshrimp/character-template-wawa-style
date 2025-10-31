@@ -9,8 +9,8 @@ How to use the CSS Snippets
 
 The infobox snippet is part of the ITS theme if you use it, or you can install it seperately by doing the following:
 
-Go to this link and download the 'Callouts.css’ file https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts.css
-
+Go to this link -> https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts.css
+ and download the 'Callouts.css’ file
 In obsidian, go to settings -> appearance -> CSS snippets, and open the folder with the little folder icon
 
 Paste the 'callouts.css’ into that folder
