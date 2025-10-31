@@ -1,6 +1,8 @@
 # character-template-wawa-style
 A character template I made :)
 
+This is my first time using github and I don't know how to use anything so hopefully this does what I want it to but who knows
+
 To be able to use the infobox you need to use CSS snippets but I'm bad at explaining things so here is where I learned how to do it lol https://space-writes.tumblr.com/post/723210231049568256/obsidian-templates-for-writers
 
 And I'll copy and paste it here too for ease I guess
